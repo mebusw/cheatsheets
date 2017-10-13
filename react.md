@@ -9,16 +9,16 @@ weight: -10
 description: |
   One-page reference to React's components, lifecycle hooks. Complete with practical examples and more.
 intro: |
-  [React](https://reactjs.org/) is a JavaScript library for building user interfaces. This guide targets React v15 to v16.
+  [React](https://reactjs.org/) 是一个用于构建用户界面（UI）的 JavaScript 库。这份指南速查表包含了 React v15 和 v16。
 ---
 
 {%raw%}
 
-Components
+组件
 ----------
 {: .-three-column}
 
-### Components
+### 组件
 {: .-prime}
 
 ```jsx
@@ -44,7 +44,7 @@ ReactDOM.render(<Hello name='John' />, el)
 
 Use the [React.js jsfiddle](http://jsfiddle.net/reactjs/69z2wepo/) to start hacking. (or the unofficial [jsbin](http://jsbin.com/yafixat/edit?js,output))
 
-### Properties
+### 属性
 
 ```html
 <Video fullscreen={true} />
@@ -59,11 +59,11 @@ render () {
 ```
 {: data-line="2"}
 
-Use `this.props` to access properties passed to the component.
+使用 `this.props` 访问从组件传入的属性。
 
-See: [Properties](https://reactjs.org/docs/tutorial.html#using-props)
+参考: [Properties](https://reactjs.org/docs/tutorial.html#using-props)
 
-### States
+### 状态
 
 ```jsx
 this.setState({ username: 'rstacruz' })
@@ -77,9 +77,9 @@ render () {
 ```
 {: data-line="2"}
 
-Use states (`this.state`) to manage dynamic data.
+使用状态 (`this.state`) 管理动态数据。
 
-See: [States](https://reactjs.org/docs/tutorial.html#reactive-state)
+参考: [States](https://reactjs.org/docs/tutorial.html#reactive-state)
 
 ### Nesting
 
@@ -99,7 +99,7 @@ class Info extends React.Component {
 
 Nest components to separate concerns.
 
-See: [Composing Components](https://reactjs.org/docs/components-and-props.html#composing-components)
+参考: [Composing Components](https://reactjs.org/docs/components-and-props.html#composing-components)
 
 ### Children
 
