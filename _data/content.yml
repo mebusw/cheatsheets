@@ -9,7 +9,7 @@ top_nav:
   edit_on_github: 在 GitHub 上编辑本页面
 
 sheet:
-  suffix: cheatsheet
+  suffix: 速查表
 
 social_list:
   default_description: "Ridiculous collection of web development cheatsheets"
