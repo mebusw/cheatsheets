@@ -50,7 +50,7 @@ defaults:
 
 # Site info
 
-url: https://devhints.io
+url: http://devhints.justjavac.com
 title: Devhints.io cheatsheets
 
 # GitHub metadata
