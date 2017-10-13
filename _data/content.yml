@@ -1,7 +1,7 @@
 home:
-  title: "Rico's cheatsheets"
+  title: "开发者速查表"
   tagline: |
-    本 cheatsheets 由 <a href='https://ricostacruz.com'>@rstacruz</a> 收集创建，由 <a href='http://justjavac.com'>@justjavac</a> 翻译
+    本<strong>速查表</strong>由 <a href='https://ricostacruz.com'>@rstacruz</a> 收集创建，由 <a href='http://justjavac.com'>@justjavac</a> 翻译
 
 top_nav:
   title: Devhints.io
@@ -18,30 +18,30 @@ social_list:
   twitter_share: Share on Twitter
 
 related_posts_callout:
-  description: 超过 SIZE 个 cheatsheets, 专为开发者准备。
+  description: 超过 SIZE 个速查表, 专为开发者准备。
   link: Devhints 首页
 
 related_posts_group:
-  top: Top cheatsheets
-  other: Other cheatsheets
-  category: Other CATEGORY cheatsheets
+  top: 热门速查表
+  other: 其它速查表
+  category: Other CATEGORY 速查表
 
 search_form:
-  default_placeholder: 搜索 SIZE+ 个 cheatsheets
+  default_placeholder: 搜索 SIZE+ 个速查表
   home_placeholder: 搜索...
   prefix: devhints.justjavac.com
 
 comments_area:
   suffix: for this cheatsheet.
-  link: "Write yours!"
+  link: "立即评论!"
 
 not_found:
-  title: Not found
-  description: Sorry, we don't have a cheatsheet for this yet. Try searching!
-  home: Back to home
+  title: 页面未找到
+  description: 抱歉，我们未能为您找到需要的速查表！
+  home: 返回速查表首页
 
 announcement:
   id: 2017-09-25-devhints-io
   title: 中文版上线 🎉
   body: |
-    大家好，devhints.io 中文版正式上线！临时域名为 devhints.justjavac.com，如果您也想参与翻译，可以在 github 上提交 pull request。
+    devhints.io 中文版正式上线！临时域名为 devhints.justjavac.com，如果您也想参与翻译，可以在 github 上提交 pull request。
