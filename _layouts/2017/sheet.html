@@ -29,14 +29,14 @@
 
   {% if page.tags contains 'WIP' %}
     <aside class='notice-box'>
-      This page is a work in progress. You can help by <a href='{{ site.github.repository_url }}/blob/master/{{ page.path | remove: '.html' }}'>suggesting edits</a>!
+    该页面还没有最终完成。你可以帮助一起在 <a href='{{ site.github.repository_url }}/blob/master/{{ page.path | remove: '.html' }}'>github</a> 完善这个页面！
     </aside>
   {% endif %}
 
   {% if page.deprecated_by %}
     <aside class='notice-box'>
-      <strong>Deprecated:</strong> This guide covers an older version.
-      <a href='{{ base }}{{ page.deprecated_by }}'>A newer version is available here.</a>
+      <strong>Deprecated:</strong> 已经过时，不建议再继续使用。
+      <a href='{{ base }}{{ page.deprecated_by }}'>查看新版本</a>
     </aside>
   {% endif %}
 
