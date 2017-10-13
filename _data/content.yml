@@ -1,7 +1,7 @@
 home:
   title: "开发者速查表"
   tagline: |
-    本<strong>速查表</strong>由 <a href='https://ricostacruz.com'>@rstacruz</a> 收集创建，由 <a href='http://justjavac.com'>@justjavac</a> 翻译
+    本<strong>速查表（cheatsheets）</strong>由 <a href='https://ricostacruz.com'>@rstacruz</a> 创建，简体中文由 <a href='http://justjavac.com'>@justjavac</a> 翻译
 
 top_nav:
   title: Devhints.io
@@ -29,7 +29,7 @@ related_posts_group:
 search_form:
   default_placeholder: 搜索 SIZE+ 个速查表
   home_placeholder: 搜索...
-  prefix: devhints.justjavac.com
+  prefix: devhints.cn
 
 comments_area:
   suffix: 该速查表目前
