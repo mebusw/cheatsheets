@@ -19,12 +19,12 @@ social_list:
 
 related_posts_callout:
   description: 超过 SIZE 个速查表, 专为开发者准备。
-  link: Devhints 首页
+  link: 网站首页
 
 related_posts_group:
   top: 热门速查表
   other: 其它速查表
-  category: Other CATEGORY 速查表
+  category: 其它 CATEGORY 速查表
 
 search_form:
   default_placeholder: 搜索 SIZE+ 个速查表
