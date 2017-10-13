@@ -32,7 +32,7 @@ search_form:
   prefix: devhints.justjavac.com
 
 comments_area:
-  suffix: for this cheatsheet.
+  suffix: 该速查表目前
   link: "立即评论!"
 
 not_found:
